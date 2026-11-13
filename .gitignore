@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+
+# Ignore environment files
+.env
+
+# Ignore Node modules
+node_modules/
